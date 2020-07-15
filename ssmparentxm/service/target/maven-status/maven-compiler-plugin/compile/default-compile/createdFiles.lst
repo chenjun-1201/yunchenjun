@@ -1,0 +1,12 @@
+com/itcast/service/IOrdersService.class
+com/itcast/service/impl/RoleServiceImpl.class
+com/itcast/service/IUserService.class
+com/itcast/service/impl/SyslogServiceImpl.class
+com/itcast/service/IPermissionService.class
+com/itcast/service/impl/PermissionServiceImpl.class
+com/itcast/service/impl/UserServiceImpl.class
+com/itcast/service/ISyslogService.class
+com/itcast/service/IProductService.class
+com/itcast/service/impl/OrdersServiceImpl.class
+com/itcast/service/IRoleService.class
+com/itcast/service/impl/ProductServiceImpl.class
